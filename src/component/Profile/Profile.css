@@ -1,0 +1,19 @@
+.container-Row {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  /* top: 30%; */
+}
+
+.container-Row-item {
+}
+
+.Profile-container {
+  display: flex;
+  flex-direction: column;
+  width: inherit;
+}
+
+.item {
+  /* background-color: lightblue; */
+}

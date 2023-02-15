@@ -1,0 +1,30 @@
+.circle {
+  width: 20%;
+  height: 40%;
+  background-color: rgb(14, 215, 70);
+  border-radius: 57%;
+  position: relative;
+  /* top: 30%; */
+}
+
+.left {
+  flex: 1;
+  top: 13%;
+  /* display: inline-block; */
+  position: relative;
+  height: 1px;
+  width: 100%;
+  border-color: rgb(14, 215, 70);
+  /* flex-grow: 1; */
+}
+
+.right {
+  flex: 1;
+  top: 13%;
+  /* display: inline-block; */
+  position: relative;
+  /* top: 30%; */
+  height: 1px;
+  width: 100%;
+  border-color: rgb(14, 215, 70);
+}
